@@ -1,0 +1,1 @@
+I would like to change all bad to bad in this file so that the file contains only bad words and no word called bad. 
